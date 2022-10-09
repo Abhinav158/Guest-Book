@@ -15,8 +15,11 @@
 <li> The emailID must be of form userid@nitk.ac.in </li>
 </ol>
 
+
 A brief demonstration about the Form Validation features are shown below: 
 
 
 
 [screen-capture (3).webm](https://user-images.githubusercontent.com/93826081/194737480-56402466-6509-4c5c-86ed-cb599e3abfe3.webm)
+
+We can see that when an invalid response is given, the input text has a red border indicating to the client that there is is an invalid input. If there is a valid input, there is no change to the input field.
