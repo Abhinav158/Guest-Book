@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/93826081/194736813-b0541dee-279b-49fe-a07c-6b480c28db31.png)
 
-### Form Validation Features
+### Form Validation Features using JavaScript RegEx
 
 <ol>
 <li> The name must consist of first name and last name separated by a single space </li>
@@ -18,3 +18,4 @@
 A brief demonstration about the Form Validation features are shown below: 
 
 
+[screen-capture (2).webm](https://user-images.githubusercontent.com/93826081/194737325-0f09aaad-191e-4700-b0e8-a02f1eaacb21.webm)
